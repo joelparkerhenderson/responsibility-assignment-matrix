@@ -31,7 +31,7 @@ Typically there is ongoing communication, especially upon milestones, deliverabl
 
 Any role/person whoe opinions are sought, such as subject matter experts, support services staff, legal counsel, etc.
 
-Typically there is two-way communication, such as when specific help is needed.
+Typically there is two-way communication, such as when specific help is needed, and before decisions are made.
 
 
 ## Informable
