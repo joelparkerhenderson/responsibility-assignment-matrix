@@ -15,27 +15,27 @@ See https://wikipedia.org/wiki/Responsibility_assignment_matrix
 
 ## Responsible
 
-Responsible: all the roles and all the people who do the work to achieve the task.
+All the roles/people who do the work to achieve the task.
 
 
 ## Accountable
 
-Accountable: the one role or one person who is the ultimate authority in charge of the task, such as approving its completion, correctness, commitments, change orders, etc.
+The one role/person who is the ultimate authority in charge of the task, such as approving its completion, correctness, commitments, change orders, etc.
 
 
 ## Consultable
 
-Consultable: any people whose opinions are sought, such as subject matter experts, legal counsel, etc.; typically there is two-way communication.
+Any roles/people whose opinions are sought, such as subject matter experts, legal counsel, etc.; typically there is two-way communication.
 
 
 ## Informable
 
-Informable: any people who are kept up-to-date on progress; typically there is one-way communication, such as when the task reaches a milestone.
+Any roles/people who are kept up-to-date on progress; typically there is one-way communication, such as when the task reaches a milestone.
 
 
 ## Omittable
 
-Omittable: any other people who are not significantly involved, out of the loop, yet may be related tangentially, or in the past or future; typically there is no communiation.
+Any other roles/people who are out of scope or out of the loop, yet may be related tangentially and are worthwhile to have in the matrix; typically there is no communiation.
 
 
 # Alternatives
