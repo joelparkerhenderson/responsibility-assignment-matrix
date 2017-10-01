@@ -2,9 +2,6 @@
 
 A responsibility assignment matrix (RAM) a.k.a. linear responsibility chart (LRC) describes the participation by various roles in completing tasks or deliverables for a project or business process.
 
-It is especially useful in clarifying roles and responsibilities in cross-functional/departmental projects and processes.[5]
-
-
 Responsibility assigment matrix using RACIO mnemonic:
 
 * Responsible
@@ -12,6 +9,8 @@ Responsibility assigment matrix using RACIO mnemonic:
 * Consultable
 * Informable
 * Omittable
+
+See https://wikipedia.org/wiki/Responsibility_assignment_matrix
 
 
 ## Responsible
