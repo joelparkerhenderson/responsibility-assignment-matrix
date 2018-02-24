@@ -1,4 +1,4 @@
-# Responsibility assigment matrix
+# Responsibility assignment matrix
 
 A responsibility assignment matrix (RAM) a.k.a. linear responsibility chart (LRC) describes the participation by various roles in completing tasks or deliverables for a project or business process.
 
@@ -13,42 +13,105 @@ Responsibility assigment matrix using RACIO mnemonic:
 See https://wikipedia.org/wiki/Responsibility_assignment_matrix
 
 
-## Responsible
+## RACIO
+
+
+### Responsible
 
 Each role/person who does the work to achieve the task.
 
 Typically there is ongoing constant communication.
 
 
-## Accountable
+### Accountable
 
 One role/person who is the ultimate authority in charge of the task, such as approving its completion, correctness, commitments, etc.
 
 Typically there is ongoing communication, especially upon milestones, deliverables, changes, etc.
 
 
-## Consultable
+### Consultable
 
 Any role/person whoe opinions are sought, such as subject matter experts, support services staff, legal counsel, etc.
 
 Typically there is two-way communication, such as when specific help is needed, and before decisions are made.
 
 
-## Informable
+### Informable
 
 Any role/person who is to be kept up-to-date on progress.
 
 Typically there is one-way communication, such as when the task reaches a milestone.
 
 
-## Omittable
+### Omittable
 
 Any role/person who is otherwise out of scope, out of the loop, yet are worthwhile to have in the matrix.
 
 Typically there is no communiation, unless something changes to bring the role/person in scope and in the loop.
 
 
-# Alternatives
+## Example
+
+<table>
+<tr>
+<th></th>
+<th>Worker</th>
+<th>Sponsor</th>
+<th>Lawyer</th>
+<th>Auditor</th>
+<th>Translator</th>
+</tr>
+
+<tr>
+<th>Research &amp; development</th>
+<td>R</td>
+<td>A</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<th>Approvals &amp; appropriations</th>
+<td></td>
+<td>A</td>
+<td>C</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<th>Compliance &amp; regulations</th>
+<td></td>
+<td>R</td>
+<td>A</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<th>Independent testing</th>
+<td></td>
+<td>I</td>
+<td>C</td>
+<td>A</td>
+<td></td>
+</tr>
+
+<tr>
+<th>Translate to other languages</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>O</td>
+</tr>
+
+</table>
+
+
+## Alternatives
 
 Responsibility assigment matrix ideas have many alternatives for initialisms:
 
