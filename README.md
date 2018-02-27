@@ -1,3 +1,12 @@
+<!--
+  * browser: responsibility-assignment-matrix
+  * tracker: f44c30d1b876f8987cf78c727e573542
+  * version: 3.3.0
+  * updated: 2018-02-24T03:07:24Z
+  * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
+  * options: commentable
+-->
+
 # Responsibility assignment matrix
 
 A responsibility assignment matrix (RAM) a.k.a. linear responsibility chart (LRC) describes the participation by various roles in completing tasks or deliverables for a project or business process.
@@ -18,35 +27,35 @@ See https://wikipedia.org/wiki/Responsibility_assignment_matrix
 
 ### Responsible
 
-Each role/person who does the work to achieve the task.
+Each role and/or person who does the work to achieve the task.
 
 Typically there is ongoing constant communication.
 
 
 ### Accountable
 
-One role/person who is the ultimate authority in charge of the task, such as approving its completion, correctness, commitments, etc.
+One role and/or person who is the ultimate authority in charge of the task, such as approving its completion, correctness, commitments, etc.
 
 Typically there is ongoing communication, especially upon milestones, deliverables, changes, etc.
 
 
 ### Consultable
 
-Any role/person whoe opinions are sought, such as subject matter experts, support services staff, legal counsel, etc.
+Any role and/or person whoe opinions are sought, such as subject matter experts, support services staff, legal counsel, etc.
 
 Typically there is two-way communication, such as when specific help is needed, and before decisions are made.
 
 
 ### Informable
 
-Any role/person who is to be kept up-to-date on progress.
+Any role and/or person who is to be kept up-to-date on progress.
 
 Typically there is one-way communication, such as when the task reaches a milestone.
 
 
 ### Omittable
 
-Any role/person who is otherwise out of scope, out of the loop, yet are worthwhile to have in the matrix.
+Any role and/or person who is out of scope, or out of the loop, yet worthwhile to have in the matrix, such as someone who's provided a delegate, or is on leave, etc.
 
 Typically there is no communiation, unless something changes to bring the role/person in scope and in the loop.
 
