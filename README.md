@@ -41,7 +41,7 @@ Typically there is ongoing communication, especially upon milestones, deliverabl
 
 ### Consultable
 
-Any role and/or person whoe opinions are sought, such as subject matter experts, support services staff, legal counsel, etc.
+Any role and/or person whose opinions are sought, such as subject matter experts, support services staff, legal counsel, etc.
 
 Typically there is two-way communication, such as when specific help is needed, and before decisions are made.
 
