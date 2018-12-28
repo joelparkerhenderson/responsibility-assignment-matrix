@@ -65,56 +65,30 @@ Typically there is no communiation, unless something changes to bring the role/p
 <table>
 <tr>
 <th></th>
-<th>Worker</th>
+<th>Developer</th>
 <th>Sponsor</th>
-<th>Lawyer</th>
-<th>Auditor</th>
 <th>Translator</th>
 </tr>
 
 <tr>
-<th>Research &amp; development</th>
+<th>Programming</th>
 <td>R</td>
-<td>A</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<th>Approvals &amp; appropriations</th>
-<td></td>
 <td>A</td>
 <td>C</td>
-<td></td>
-<td></td>
 </tr>
 
 <tr>
-<th>Compliance &amp; regulations</th>
-<td></td>
-<td>R</td>
-<td>A</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<th>Independent testing</th>
-<td></td>
+<th>Approvals</th>
 <td>I</td>
-<td>C</td>
 <td>A</td>
-<td></td>
+<td>O</td>
 </tr>
 
 <tr>
-<th>Translate to other languages</th>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>O</td>
+<th>Internationalization</th>
+<td>C</td>
+<td>I</td>
+<td>R,A</td>
 </tr>
 
 </table>
