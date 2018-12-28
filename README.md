@@ -65,27 +65,27 @@ Typically there is no communiation, unless something changes to bring the role/p
 <table>
 <tr>
 <th></th>
-<th>Developer</th>
-<th>Sponsor</th>
-<th>Translator</th>
+<th>Developer<br>Role</th>
+<th>Sponsor<br>Role</th>
+<th>Translator<br>Role</th>
 </tr>
 
 <tr>
-<th>Programming</th>
+<th>Programming<br>Responsbilities</th>
 <td>R</td>
 <td>A</td>
 <td>C</td>
 </tr>
 
 <tr>
-<th>Approvals</th>
+<th>Accounting<br>Responsibilities</th>
 <td>I</td>
 <td>A</td>
 <td>O</td>
 </tr>
 
 <tr>
-<th>Internationalization</th>
+<th>Internationalizing<br>Responsbilities</th>
 <td>C</td>
 <td>I</td>
 <td>R,A</td>
