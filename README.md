@@ -62,6 +62,8 @@ Typically there is no communiation, unless something changes to bring the role/p
 
 ## Example
 
+A example with a few roles and responsbilities:
+
 <table>
 <tr>
 <th></th>
@@ -88,6 +90,66 @@ Typically there is no communiation, unless something changes to bring the role/p
 <th>Internationalizing<br>Responsbilities</th>
 <td>C</td>
 <td>I</td>
+<td>R,A</td>
+</tr>
+
+</table>
+
+
+An example with more roles and responsibilities:
+
+<table>
+<tr>
+<th></th>
+<th>Product<br>Manager</th>
+<th>Software<br>Programmer</th>
+<th>Quality<br>Tester</th>
+<th>System<br>Administrator</th>
+<th>Language<br>Translator</th>
+</tr>
+
+<tr>
+<th>Designing<br></th>
+<td>R,A</td>
+<td>C</td>
+<td>I</td>
+<td></td>
+<td>C</td>
+</tr>
+
+<tr>
+<th>Developing</th>
+<td>C</td>
+<td>R,A</td>
+<td>C</td>
+<td>I</td>
+<td></td>
+</tr>
+
+<tr>
+<th>Verifying</th>
+<td>I</td>
+<td>C</td>
+<td>R,A</td>
+<td>C</td>
+<td></td>
+</tr>
+
+<tr>
+<th>Deploying</th>
+<td></td>
+<td>I</td>
+<td>C</td>
+<td>R,A</td>
+<td></td>
+</tr>
+
+<tr>
+<th>Internationalizing</th>
+<td>C</td>
+<td></td>
+<td>I</td>
+<td></td>
 <td>R,A</td>
 </tr>
 
