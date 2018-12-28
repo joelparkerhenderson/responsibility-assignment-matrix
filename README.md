@@ -7,7 +7,7 @@
   * options: commentable
 -->
 
-# Responsibility assignment matrix
+# Responsibility assignment matrix (RAM)
 
 A responsibility assignment matrix (RAM) a.k.a. linear responsibility chart (LRC) describes the participation by various roles in completing tasks or deliverables for a project or business process.
 
